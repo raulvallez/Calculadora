@@ -1,0 +1,237 @@
+2017-09-27 15:59:44 INFO  Main:34 - Student1 Name: pepe
+2017-09-27 15:59:44 INFO  Main:35 - Student2 Name: Albert
+2017-09-27 21:17:15 INFO  Main:40 - 1. Agregar alumno
+2017-09-27 21:17:15 INFO  Main:41 - 2. Salir
+2017-09-27 21:17:15 INFO  Main:66 - Student1 Name: pepe
+2017-09-27 21:17:15 INFO  Main:67 - Student1 id: 1
+2017-09-27 21:17:15 INFO  Main:68 - Student1 Surname: Soto
+2017-09-27 21:17:15 INFO  Main:69 - Student1 Age: 40
+2017-09-27 21:17:15 INFO  Main:71 - Student1 Name: Albert
+2017-09-27 21:17:15 INFO  Main:72 - Student1 id: 1
+2017-09-27 21:17:15 INFO  Main:73 - Student1 Surname: Sierra
+2017-09-27 21:17:15 INFO  Main:74 - Student1 Age: 44
+2017-09-27 21:18:03 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:18:03 INFO  Main:40 - 2. Salir
+2017-09-27 21:25:12 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:25:12 INFO  Main:40 - 2. Salir
+2017-09-27 21:31:13 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:31:13 INFO  Main:40 - 2. Salir
+2017-09-27 21:31:27 INFO  Main:45 - Has picado 1
+2017-09-27 21:31:27 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:31:27 INFO  Main:40 - 2. Salir
+2017-09-27 21:31:39 INFO  Main:47 - Has picado 2
+2017-09-27 21:31:39 INFO  Main:66 - Student1 Name: pepe
+2017-09-27 21:31:39 INFO  Main:67 - Student1 id: 1
+2017-09-27 21:31:39 INFO  Main:68 - Student1 Surname: Soto
+2017-09-27 21:31:39 INFO  Main:69 - Student1 Age: 40
+2017-09-27 21:31:39 INFO  Main:71 - Student1 Name: Albert
+2017-09-27 21:31:39 INFO  Main:72 - Student1 id: 1
+2017-09-27 21:31:39 INFO  Main:73 - Student1 Surname: Sierra
+2017-09-27 21:31:39 INFO  Main:74 - Student1 Age: 44
+2017-09-27 21:52:22 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:52:22 INFO  Main:40 - 2. Salir
+2017-09-27 21:52:29 INFO  Main:51 - wront value
+2017-09-27 21:52:29 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:52:29 INFO  Main:40 - 2. Salir
+2017-09-27 21:52:39 INFO  Main:45 - Has picado 1
+2017-09-27 21:52:39 INFO  Main:39 - 1. Agregar alumno
+2017-09-27 21:52:39 INFO  Main:40 - 2. Salir
+2017-09-27 21:52:43 INFO  Main:70 - Student1 Name: pepe
+2017-09-27 21:52:43 INFO  Main:71 - Student1 id: 1
+2017-09-27 21:52:43 INFO  Main:72 - Student1 Surname: Soto
+2017-09-27 21:52:43 INFO  Main:73 - Student1 Age: 40
+2017-09-27 21:52:43 INFO  Main:75 - Student1 Name: Albert
+2017-09-27 21:52:43 INFO  Main:76 - Student1 id: 1
+2017-09-27 21:52:43 INFO  Main:77 - Student1 Surname: Sierra
+2017-09-27 21:52:43 INFO  Main:78 - Student1 Age: 44
+2017-09-28 16:47:17 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 16:47:17 INFO  Main:73 - Student1 id: 1
+2017-09-28 16:47:17 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 16:47:17 INFO  Main:75 - Student1 Age: 40
+2017-09-28 16:47:17 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 16:47:17 INFO  Main:78 - Student1 id: 1
+2017-09-28 16:47:17 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 16:47:17 INFO  Main:80 - Student1 Age: 44
+2017-09-28 16:54:02 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 16:54:02 INFO  Main:73 - Student1 id: 1
+2017-09-28 16:54:02 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 16:54:02 INFO  Main:75 - Student1 Age: 40
+2017-09-28 16:54:02 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 16:54:02 INFO  Main:78 - Student1 id: 1
+2017-09-28 16:54:02 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 16:54:02 INFO  Main:80 - Student1 Age: 44
+2017-09-28 17:37:06 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 17:37:06 INFO  Main:73 - Student1 id: 1
+2017-09-28 17:37:06 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 17:37:06 INFO  Main:75 - Student1 Age: 40
+2017-09-28 17:37:06 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 17:37:06 INFO  Main:78 - Student1 id: 1
+2017-09-28 17:37:06 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 17:37:06 INFO  Main:80 - Student1 Age: 44
+2017-09-28 17:58:46 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 17:58:46 INFO  Main:73 - Student1 id: 1
+2017-09-28 17:58:46 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 17:58:46 INFO  Main:75 - Student1 Age: 40
+2017-09-28 17:58:46 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 17:58:46 INFO  Main:78 - Student1 id: 1
+2017-09-28 17:58:46 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 17:58:46 INFO  Main:80 - Student1 Age: 44
+2017-09-28 18:00:16 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 18:00:16 INFO  Main:73 - Student1 id: 1
+2017-09-28 18:00:16 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 18:00:16 INFO  Main:75 - Student1 Age: 40
+2017-09-28 18:00:16 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 18:00:16 INFO  Main:78 - Student1 id: 1
+2017-09-28 18:00:16 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 18:00:16 INFO  Main:80 - Student1 Age: 44
+2017-09-28 18:00:16 INFO  StudentDao:27 - Student --- [idStudent=1, name=pepe, surname=Soto, age=40
+2017-09-28 18:00:47 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 18:00:47 INFO  Main:73 - Student1 id: 1
+2017-09-28 18:00:47 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 18:00:47 INFO  Main:75 - Student1 Age: 40
+2017-09-28 18:00:47 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 18:00:47 INFO  Main:78 - Student1 id: 1
+2017-09-28 18:00:47 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 18:00:47 INFO  Main:80 - Student1 Age: 44
+2017-09-28 18:01:08 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 18:01:08 INFO  Main:73 - Student1 id: 1
+2017-09-28 18:01:08 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 18:01:08 INFO  Main:75 - Student1 Age: 40
+2017-09-28 18:01:08 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 18:01:08 INFO  Main:78 - Student1 id: 1
+2017-09-28 18:01:08 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 18:01:08 INFO  Main:80 - Student1 Age: 44
+2017-09-28 18:02:02 INFO  Main:72 - Student1 Name: pepe
+2017-09-28 18:02:02 INFO  Main:73 - Student1 id: 1
+2017-09-28 18:02:02 INFO  Main:74 - Student1 Surname: Soto
+2017-09-28 18:02:02 INFO  Main:75 - Student1 Age: 40
+2017-09-28 18:02:02 INFO  Main:77 - Student1 Name: Albert
+2017-09-28 18:02:02 INFO  Main:78 - Student1 id: 1
+2017-09-28 18:02:02 INFO  Main:79 - Student1 Surname: Sierra
+2017-09-28 18:02:02 INFO  Main:80 - Student1 Age: 44
+2017-10-03 22:31:06 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 22:31:06 INFO  Main:73 - Student1 id: 1
+2017-10-03 22:31:06 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 22:31:06 INFO  Main:75 - Student1 Age: 40
+2017-10-03 22:31:06 INFO  Main:77 - Student1 Name: Albert
+2017-10-03 22:31:06 INFO  Main:78 - Student1 id: 1
+2017-10-03 22:31:06 INFO  Main:79 - Student1 Surname: Sierra
+2017-10-03 22:31:06 INFO  Main:80 - Student1 Age: 44
+2017-10-03 22:33:10 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 22:33:10 INFO  Main:73 - Student1 id: 1
+2017-10-03 22:33:10 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 22:33:10 INFO  Main:75 - Student1 Age: 40
+2017-10-03 22:33:10 INFO  Main:77 - Student1 Name: Albert
+2017-10-03 22:33:10 INFO  Main:78 - Student1 id: 1
+2017-10-03 22:33:10 INFO  Main:79 - Student1 Surname: Sierra
+2017-10-03 22:33:10 INFO  Main:80 - Student1 Age: 44
+2017-10-03 22:33:10 INFO  StudentDao:29 - Student --- [idStudent=1, name=pepe, surname=Soto, age=40
+2017-10-03 22:34:53 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 22:34:53 INFO  Main:73 - Student1 id: 1
+2017-10-03 22:34:53 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 22:34:53 INFO  Main:75 - Student1 Age: 40
+2017-10-03 22:34:53 INFO  Main:77 - Student1 Name: Albert
+2017-10-03 22:34:53 INFO  Main:78 - Student1 id: 1
+2017-10-03 22:34:53 INFO  Main:79 - Student1 Surname: Sierra
+2017-10-03 22:34:53 INFO  Main:80 - Student1 Age: 44
+2017-10-03 22:34:53 INFO  StudentDao:29 - Student --- idStudent=1, name=pepe, surname=Soto, age=40
+2017-10-03 22:36:26 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 22:36:26 INFO  Main:73 - Student1 id: 1
+2017-10-03 22:36:26 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 22:36:26 INFO  Main:75 - Student1 Age: 40
+2017-10-03 22:36:26 INFO  Main:77 - Student1 Name: Albert
+2017-10-03 22:36:26 INFO  Main:78 - Student1 id: 1
+2017-10-03 22:36:26 INFO  Main:79 - Student1 Surname: Sierra
+2017-10-03 22:36:26 INFO  Main:80 - Student1 Age: 44
+2017-10-03 22:36:26 INFO  StudentDao:29 - Student --- idStudent=1
+2017-10-03 22:36:26 INFO  StudentDao:29 - Student --- name=pepe
+2017-10-03 22:36:26 INFO  StudentDao:29 - Student --- surname=Soto
+2017-10-03 22:36:26 INFO  StudentDao:29 - Student --- age=40
+2017-10-03 23:01:08 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 23:01:08 INFO  Main:73 - Student1 id: 1
+2017-10-03 23:01:08 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 23:01:08 INFO  Main:75 - Student1 Age: 40
+2017-10-03 23:01:08 INFO  Main:77 - Student2 Name: Albert
+2017-10-03 23:01:08 INFO  Main:78 - Student2 id: 1
+2017-10-03 23:01:08 INFO  Main:79 - Student2 Surname: Sierra
+2017-10-03 23:01:08 INFO  Main:80 - Student2 Age: 44
+2017-10-03 23:01:08 INFO  StudentDao:33 - Student --- idStudent=1
+2017-10-03 23:01:08 INFO  StudentDao:57 - AQUI
+2017-10-03 23:01:08 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:01:08 INFO  StudentDao:33 - Student --- name=pepe
+2017-10-03 23:01:08 INFO  StudentDao:57 - AQUI
+2017-10-03 23:01:08 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:01:08 INFO  StudentDao:33 - Student --- surname=Soto
+2017-10-03 23:01:08 INFO  StudentDao:57 - AQUI
+2017-10-03 23:01:08 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:01:08 INFO  StudentDao:33 - Student --- age=40
+2017-10-03 23:01:08 INFO  StudentDao:57 - AQUI
+2017-10-03 23:01:08 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:02:52 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 23:02:52 INFO  Main:73 - Student1 id: 1
+2017-10-03 23:02:52 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 23:02:52 INFO  Main:75 - Student1 Age: 40
+2017-10-03 23:02:52 INFO  Main:77 - Student2 Name: Albert
+2017-10-03 23:02:52 INFO  Main:78 - Student2 id: 1
+2017-10-03 23:02:52 INFO  Main:79 - Student2 Surname: Sierra
+2017-10-03 23:02:52 INFO  Main:80 - Student2 Age: 44
+2017-10-03 23:04:07 INFO  Main:72 - Student1 Name: pepe
+2017-10-03 23:04:07 INFO  Main:73 - Student1 id: 1
+2017-10-03 23:04:07 INFO  Main:74 - Student1 Surname: Soto
+2017-10-03 23:04:07 INFO  Main:75 - Student1 Age: 40
+2017-10-03 23:04:07 INFO  Main:77 - Student2 Name: Albert
+2017-10-03 23:04:07 INFO  Main:78 - Student2 id: 1
+2017-10-03 23:04:07 INFO  Main:79 - Student2 Surname: Sierra
+2017-10-03 23:04:07 INFO  Main:80 - Student2 Age: 44
+2017-10-03 23:04:07 INFO  StudentDao:33 - Student --- idStudent=1
+2017-10-03 23:04:07 INFO  StudentDao:57 - AQUI
+2017-10-03 23:04:07 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:04:07 INFO  StudentDao:33 - Student --- name=pepe
+2017-10-03 23:04:07 INFO  StudentDao:57 - AQUI
+2017-10-03 23:04:07 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:04:07 INFO  StudentDao:33 - Student --- surname=Soto
+2017-10-03 23:04:07 INFO  StudentDao:57 - AQUI
+2017-10-03 23:04:07 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-03 23:04:07 INFO  StudentDao:33 - Student --- age=40
+2017-10-03 23:04:07 INFO  StudentDao:57 - AQUI
+2017-10-03 23:04:07 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-04 14:15:04 INFO  Main:72 - Student1 Name: pepe
+2017-10-04 14:15:04 INFO  Main:73 - Student1 id: 1
+2017-10-04 14:15:04 INFO  Main:74 - Student1 Surname: Soto
+2017-10-04 14:15:04 INFO  Main:75 - Student1 Age: 40
+2017-10-04 14:15:04 INFO  Main:77 - Student2 Name: Albert
+2017-10-04 14:15:04 INFO  Main:78 - Student2 id: 1
+2017-10-04 14:15:04 INFO  Main:79 - Student2 Surname: Sierra
+2017-10-04 14:15:04 INFO  Main:80 - Student2 Age: 44
+2017-10-04 14:15:04 INFO  StudentDao:33 - Student --- idStudent=1
+2017-10-04 14:15:04 INFO  StudentDao:57 - AQUI
+2017-10-04 14:15:04 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-04 14:15:04 INFO  StudentDao:33 - Student --- name=pepe
+2017-10-04 14:15:04 INFO  StudentDao:57 - AQUI
+2017-10-04 14:15:04 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-04 14:15:04 INFO  StudentDao:33 - Student --- surname=Soto
+2017-10-04 14:15:04 INFO  StudentDao:57 - AQUI
+2017-10-04 14:15:04 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-04 14:15:04 INFO  StudentDao:33 - Student --- age=40
+2017-10-04 14:15:04 INFO  StudentDao:57 - AQUI
+2017-10-04 14:15:04 INFO  StudentDao:58 - Student [idStudent=0, name=null, surname=null, age=0]
+2017-10-04 16:22:39 ERROR StudentDao:49 - "/Users/raul.vallez/Downloads/alumno.txt" (No such file or directory)
+2018-01-24 16:28:52 WARN  FileUtil:35 - fichero existe
+2018-01-24 16:31:57 ERROR StudentDao:59 - /Users/raul.vallez/Downloads/alumno.txt
+2018-01-24 16:34:02 WARN  FileUtil:35 - fichero existe
+2018-01-24 16:38:16 WARN  FileUtil:35 - fichero existe
+2018-01-24 16:42:14 WARN  FileUtil:35 - fichero existe
+2018-01-24 16:44:30 WARN  FileUtil:35 - fichero existe
+2018-01-24 16:47:39 WARN  FileUtil:35 - fichero existe
+2018-01-24 16:50:21 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:04:41 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:05:29 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:15:31 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:16:07 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:17:51 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:18:22 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:21:50 WARN  FileUtil:35 - fichero existe
+2018-01-24 17:36:56 WARN  FileUtil:35 - fichero existe
+2018-01-25 15:30:02 WARN  FileUtil:41 - fichero existe
+2018-01-25 15:58:48 WARN  FileUtil:41 - fichero existe
+2018-01-25 15:58:48 WARN  FileUtil:41 - fichero existe
